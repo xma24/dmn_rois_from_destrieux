@@ -1,4 +1,4 @@
-# dmn_rois_from_destrieux
+# Default model network (DMN) coordinates calculation from Destrieux coordinates
 Generate default mode network (DMN) region of interests (ROIs) using Destrieux Atlas
 
 ## Default Mode Network (MNI coordinates)
